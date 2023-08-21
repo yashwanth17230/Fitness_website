@@ -10,21 +10,21 @@ The Home section welcomes users to the fitness club's website. It includes a lar
 **Information**
 In the Information section, there are three boxes that provide details about different aspects of fitness:
 
-**Workout:** Describes the importance of a flexible workout routine and consistency for achieving results.
+**1.Workout:** Describes the importance of a flexible workout routine and consistency for achieving results.
 
-**Cardio:** Highlights the benefits of cardiovascular exercises and the factors that contribute to fitness goals.
+**2.Cardio:** Highlights the benefits of cardiovascular exercises and the factors that contribute to fitness goals.
 
-**Nutrition Diet**: Discusses the significance of a balanced diet plan in conjunction with exercise for optimal results.
+**3.Nutrition Diet**: Discusses the significance of a balanced diet plan in conjunction with exercise for optimal results.
 
 **Services**
 
 The Services section highlights three key services offered by the fitness club:
 
-**Qualified Trainers:** Explains the role of qualified trainers in facilitating effective fitness classes and engagement.
+**1.Qualified Trainers:** Explains the role of qualified trainers in facilitating effective fitness classes and engagement.
 
-**Personal Training**: Defines the role of personal trainers in guiding clients through tailored exercise plans and providing motivation.
+**2.Personal Training**: Defines the role of personal trainers in guiding clients through tailored exercise plans and providing motivation.
 
-**High-Tech Gym**: Describes the use of modern technology in enhancing the gym experience, including performance monitoring and projection screens.
+**3.High-Tech Gym**: Describes the use of modern technology in enhancing the gym experience, including performance monitoring and projection screens.
 
 **About Us**
 The About Us section provides an overview of the fitness club. It emphasizes the club's experience, personalized plans, holistic approach, and welcoming community. Users are encouraged to begin their fitness transformation with the club.
