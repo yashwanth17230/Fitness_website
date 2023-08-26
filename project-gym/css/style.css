@@ -113,12 +113,14 @@
     border-radius: 59px;  
     
 }
-#contact-box{
+contact-box {
+    box-sizing: border-box;
     display: flex;
     justify-content: center;
     align-items: center;
     padding-bottom: 34px;
     font-size: 1.5rem;
+    padding-left: 20px;
 }
 #contact-box input,
 #contact-box textarea{
